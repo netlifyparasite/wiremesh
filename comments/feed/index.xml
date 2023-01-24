@@ -11,7 +11,7 @@
 	<atom:link href="/comments/feed" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Tue, 24 Jan 2023 07:40:54 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 24 Jan 2023 13:06:26 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -20,4 +20,4 @@
 </channel>
 </rss>
 
-<!-- plugin=object-cache-pro client=PhpRedis metric#hits=514 metric#misses=9 metric#hit-ratio=98.3 metric#bytes=299876 metric#prefetches=0 metric#store-reads=25 metric#store-writes=1 metric#store-hits=19 metric#store-misses=6 metric#sql-queries=6 metric#ms-total=364.94 metric#ms-cache=3.77 metric#ms-cache-median=0.10 metric#ms-cache-ratio=1.0 -->
+<!-- plugin=object-cache-pro client=PhpRedis metric#hits=512 metric#misses=11 metric#hit-ratio=97.9 metric#bytes=299915 metric#prefetches=0 metric#store-reads=25 metric#store-writes=3 metric#store-hits=17 metric#store-misses=8 metric#sql-queries=8 metric#ms-total=544.98 metric#ms-cache=11.71 metric#ms-cache-median=0.12 metric#ms-cache-ratio=2.2 sample#redis-hits=90770867 sample#redis-misses=63835348 sample#redis-hit-ratio=58.7 sample#redis-ops-per-sec=130 sample#redis-evicted-keys=0 sample#redis-used-memory=24065264 sample#redis-used-memory-rss=29974528 sample#redis-memory-fragmentation-ratio=1.2 sample#redis-connected-clients=3 sample#redis-tracking-clients=0 sample#redis-rejected-connections=0 sample#redis-keys=33240 -->
